@@ -1,0 +1,14 @@
+# Cache-ul Python
+__pycache__/
+*.py[cod]
+
+# Fisiere temporare Jupyter Notebook
+.ipynb_checkpoints/
+
+# Medii virtuale
+venv/
+env/
+
+# Fisiere specifice sistemului de operare (daca lucrezi pe Mac/Windows)
+.DS_Store
+Thumbs.db
